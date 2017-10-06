@@ -88,7 +88,7 @@ If you want to install the site locally, follow these instructions:
 
 		> chmod 774 craft/config
 
-4. Download the latest version of Craft from [craftcms.com](https://craftcms.com), and copy its craft/app/ folder into happylager/craft/.
+4. Download the latest version of Craft 2 from [craftcms.com](https://craftcms.com), and copy its craft/app/ folder into happylager/craft/.
 
 5. Create a new MySQL database called `happylager`, and import happylager.sql into it.
 
